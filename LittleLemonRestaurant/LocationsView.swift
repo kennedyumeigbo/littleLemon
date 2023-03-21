@@ -34,6 +34,7 @@ struct LocationsView: View {
             
             .frame(maxHeight: .infinity)
             
+            // SwiftUI
             // SwiftUI has this space between the title and the list
             // that is amost impossible to remove without incurring
             // into complex steps that run out of the scope of this
